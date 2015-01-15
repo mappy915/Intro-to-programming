@@ -1,0 +1,5 @@
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\7\bin\Debug\7.exe.config
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\7\bin\Debug\7.exe
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\7\bin\Debug\7.pdb
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\7\obj\Debug\7.exe
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\7\obj\Debug\7.pdb

@@ -1,0 +1,5 @@
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\MyFullName\bin\Debug\MyFullName.exe.config
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\MyFullName\bin\Debug\MyFullName.exe
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\MyFullName\bin\Debug\MyFullName.pdb
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\MyFullName\obj\Debug\MyFullName.exe
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\MyFullName\obj\Debug\MyFullName.pdb

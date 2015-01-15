@@ -1,0 +1,5 @@
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\3.Numbers\bin\Debug\3.Numbers.exe.config
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\3.Numbers\bin\Debug\3.Numbers.exe
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\3.Numbers\bin\Debug\3.Numbers.pdb
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\3.Numbers\obj\Debug\3.Numbers.exe
+D:\Users\User\Documents\Visual Studio 2013\Projects\HelloCSharp\3.Numbers\obj\Debug\3.Numbers.pdb
